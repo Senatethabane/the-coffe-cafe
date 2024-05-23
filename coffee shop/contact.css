@@ -1,0 +1,22 @@
+
+header h1 {
+    margin-bottom: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #118ff7;
+    text-decoration: none;
+}
+body {
+    background-image: url(bingo.webp);
+    background-size: cover;
+}
